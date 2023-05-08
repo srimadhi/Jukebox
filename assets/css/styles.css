@@ -1,0 +1,18 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: Comic Sans MS;
+}
+
+.rounded-button {
+    border-radius: 100%;
+}
+
+.sidebar-container {
+    background-color: #191919;
+}
+
+.songs-container {
+    background-color: #191919;
+}
