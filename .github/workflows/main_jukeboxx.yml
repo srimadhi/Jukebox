@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'JukeBoxx'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F637509366D04283A762EB2276F9A366 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F6066B0EA034CBBBFCFFFD8FBA9DF18 }}
           package: .
